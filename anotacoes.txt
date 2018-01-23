@@ -2,3 +2,5 @@
     https://build.phonegap.com/
 3.5 preferencias
     http://docs.phonegap.com/phonegap-build/configuring/preferences/
+3.7 rodando em modo fixo no android
+    https://support.google.com/nexus/answer/6118421?hl=en
