@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="br.com.edersonfernandes.cenourapp" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="br.com.edersonfernandes.cenourapp"
+        version="1.0.0">
+
     <name>Só de Cenoura</name>
-    <description>Menu do restaurante Só de Cenoura.</description>
-    <author href="http://www.edersonfernandes.com.br" email="edersonluis.rf@gmail.com">Éderson Fernandes</author>
+
+    <description>
+        Menu do restaurante Só de Cenoura.
+    </description>
+    <author href="http://www.edersonfernandes.com.br" email="edersonluis.rf@gmail.com">
+        Éderson Fernandes
+    </author>
+
+    <preference name="permissions" value="none" />
     <preference name="orientation" value="portrait" />
     <preference name="fullscreen" value="true" />
-    <preference name="permissions" value="none" />
+
     <preference name="android-minSdkVersion" value="16" />
-    <gap:platform name="android" />
+    <platform name="android" />
+
+    <icon src="icon.png" />
+    <plugin name="cordova-plugin-splashscreen" />
+    <splash src="splash.png" />
+
 </widget>

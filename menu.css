@@ -80,3 +80,10 @@ body {
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
 }
+
+/* hack android velho */
+body { -webkit-animation: bugfix infinite 1s; }
+@-webkit-keyframes bugfix {
+  from { padding: 0; }
+  to { padding: 0; }
+}
