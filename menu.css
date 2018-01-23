@@ -56,3 +56,27 @@ label {
 .menu {
     margin-bottom: 100px;
 }
+
+/* animado */
+html,
+body {
+    overflow-x: hidden;
+    width: 100%;
+}
+.container-menus {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    -webkit-transition: transform 300ms ease;
+            transition: -webkit-transform 300ms ease;
+    width: 200%;
+}
+
+.container-menus .menu {
+    float: left;
+    width: 50%;
+}
+
+#opcao-bebidas:checked ~ .container-menus {
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+}
