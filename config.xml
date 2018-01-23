@@ -3,4 +3,9 @@
     <name>Só de Cenoura</name>
     <description>Menu do restaurante Só de Cenoura.</description>
     <author href="http://www.edersonfernandes.com.br" email="edersonluis.rf@gmail.com">Éderson Fernandes</author>
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="permissions" value="none" />
+    <preference name="android-minSdkVersion" value="16" />
+    <gap:platform name="android" />
 </widget>

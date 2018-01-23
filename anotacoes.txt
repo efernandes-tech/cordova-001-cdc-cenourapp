@@ -1,2 +1,4 @@
 3.3 usando o phonegap build
     https://build.phonegap.com/
+3.5 preferencias
+    http://docs.phonegap.com/phonegap-build/configuring/preferences/
