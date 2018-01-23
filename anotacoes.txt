@@ -38,3 +38,7 @@ capitulo 7 comecando uma app no android
     - Construindo um app para pedidos.
 7.2 usando cordova pela primeria vez
     cordova create garconapp br.com.edersonfernandes.garconapp "Garçonete Só de Cenoura"
+7.3 plataformas
+    cd /projeto
+    cordova platform add browser
+    cordova run browser
