@@ -1,6 +1,38 @@
+capitulo 2 a primeira versao da app
+    - Usando a plataforma da Adobe.
 3.3 usando o phonegap build
-    https://build.phonegap.com/
+    - Acessar:
+        https://build.phonegap.com/
 3.5 preferencias
-    http://docs.phonegap.com/phonegap-build/configuring/preferences/
+    - Mais conteudo sobre:
+        http://docs.phonegap.com/phonegap-build/configuring/preferences/
 3.7 rodando em modo fixo no android
-    https://support.google.com/nexus/answer/6118421?hl=en
+    - Limitando o acesso somente ao dispositivo:
+        https://support.google.com/nexus/answer/6118421?hl=en
+
+capitulo 5 um ambiente real para trabalhar com apps hibridas
+    - A plataforma da Adobe não é tão útil assim.
+5.2 um ambiente local parudo
+    - Android:
+        - Desenvolvimento: Android SDK (Android Studio)
+        - Emuladores: vêm no SDK mas são lentos (alternativa: Genymotion)
+        - Testes: qualquer aparelho
+        - Publicar: conta de desenvolvedor
+    - Windows Phone:
+        - Por que?
+    - iOS:
+        - Compre um MAC.
+
+capitulo 6 preparando cordova e android
+    - Page: 50
+    - Necessario:
+        Node.js
+        Cordova
+        Java JDK
+        Android SDK
+        VirtualBox
+        Emuladores Genymotion
+        Google Chrome
+
+capitulo 7 comecando uma app no android
+    - Construindo um app para pedidos.
