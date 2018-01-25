@@ -46,3 +46,7 @@ capitulo 7 comecando uma app no android
     cd /projeto
     cordova platform add android
     cordova run android
+7.5 executando no aparelho android
+    - Habilitar o modo desenvolvedor e permitir a depuração por usb.
+    - Depois de conectar o cabo execute:
+        cordova run android
