@@ -1,5 +1,7 @@
 capitulo 2 a primeira versao da app
     - Usando a plataforma da Adobe.
+capitulo 3 adobe phonegap build
+    - Uma app privada na conta free.
 3.3 usando o phonegap build
     - Acessar:
         https://build.phonegap.com/
@@ -55,3 +57,6 @@ capitulo 7 comecando uma app no android
         cordova build android
     - Versão final:
         cordova build android --release
+
+capitulo 8 material design
+    - https://material.io/guidelines/material-design/
