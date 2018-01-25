@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\assets"/><source path="C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\src\release\assets"/></dataSet></merger>

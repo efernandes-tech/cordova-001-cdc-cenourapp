@@ -50,3 +50,8 @@ capitulo 7 comecando uma app no android
     - Habilitar o modo desenvolvedor e permitir a depuração por usb.
     - Depois de conectar o cabo execute:
         cordova run android
+7.6 gerando um apk para distribuicao
+    - Versão de debug:
+        cordova build android
+    - Versão final:
+        cordova build android --release
