@@ -1,4 +1,4 @@
-$(document).ready(function(){
+// $(document).ready(function() {
     $('.collection').on('click', '.collection-item', function(){
         var $badge = $('.badge', this);
         if ($badge.length === 0) {
@@ -9,7 +9,6 @@ $(document).ready(function(){
         var nomeProduto = this.firstChild.textContent;
         Materialize.toast(nomeProduto + ' adicionado', 1000);
     });
+// });
 
-    $('.modal').modal();
-});
-
+$('.modal-trigger').modal();
