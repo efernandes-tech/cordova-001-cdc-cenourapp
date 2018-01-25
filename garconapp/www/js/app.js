@@ -4,4 +4,7 @@ $('.collection').on('click', '.collection-item', function(){
         $badge = $('<span class="badge brown-text">0</span>').appendTo(this);
     }
     $badge.text(parseInt($badge.text()) + 1);
+
+    var nomeProduto = this.firstChild.textContent;
+    Materialize.toast(nomeProduto + ' adicionado', 1000);
 });
