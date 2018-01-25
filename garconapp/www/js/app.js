@@ -21,4 +21,14 @@ $(document).ready(function(){
         });
         $('#resumo').empty().text(texto);
     });
+
+    $('.collection').on('click', '.badge', function() {
+        $(this).remove();
+        return false;
+    });
+
+    $('.acao-limpar').on('click', function() {
+        $('#numero-mesa').val('');
+        $('.badge').remove();
+    });
 });
