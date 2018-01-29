@@ -60,3 +60,16 @@ capitulo 7 comecando uma app no android
 
 capitulo 8 material design
     - https://material.io/guidelines/material-design/
+
+capitulo 10 preparando o ambiente para ios
+    - Compre um MAC.
+
+capitulo 11 suporte ao windows phone e windows platform
+    - Windows Phone deprecated, manter apenas para Windows Platform.
+11.3 plataforma windows no cordova
+    cordova platform add windows
+    cordova run windows
+11.4 rodando pelo visual studio
+    Abrir arquivo "CordovaApp.sln" dentro de "platform/windows".
+11.6 e para distribuir a app?
+    cordova build windows --release
