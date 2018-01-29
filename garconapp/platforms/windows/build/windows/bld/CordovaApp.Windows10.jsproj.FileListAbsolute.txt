@@ -1,0 +1,17 @@
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\Debug\AnyCPU\win10\ReverseMap\resources.pri
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\Debug\AnyCPU\win10\AppxManifest.xml
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\Debug\AnyCPU\win10\CordovaApp.Windows10.build.appxrecipe
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\CordovaApp.Windows10.jsproj.CoreCompileInputs.cache
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\ResourceHandlingTask.state
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\priconfig.xml
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\layout.resfiles
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\resources.resfiles
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\pri.resfiles
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\build\windows\bld\ProjectArchitectures.txt

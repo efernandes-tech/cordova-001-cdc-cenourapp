@@ -1,0 +1,1 @@
+C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\CordovaApp.Windows10.jsproj;neutral
