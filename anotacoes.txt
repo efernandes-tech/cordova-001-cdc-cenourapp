@@ -73,3 +73,12 @@ capitulo 11 suporte ao windows phone e windows platform
     Abrir arquivo "CordovaApp.sln" dentro de "platform/windows".
 11.6 e para distribuir a app?
     cordova build windows --release
+
+capitulo 12 configuracoes do projeto
+    - "config.xml"
+12.5 preferencias especificas de plataforma
+    - http://cordova.apache.org/docs/en/dev/config_ref/index.html
+12.6 icone e splash screen
+    - Gerenciar no braço não rende, é preciso automatizar.
+12.7 automatizando geracao dos icones e splash screens
+    npm -g install ionic
