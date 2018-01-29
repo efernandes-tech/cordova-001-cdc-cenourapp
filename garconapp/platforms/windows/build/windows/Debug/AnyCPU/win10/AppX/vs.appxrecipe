@@ -181,7 +181,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2018-01-29T17:10:43.457</Modified>
+      <Modified>2018-01-29T19:57:13.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
