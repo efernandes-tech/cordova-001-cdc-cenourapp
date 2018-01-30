@@ -106,4 +106,6 @@ capitulo 16 introducao ao ionic
     ionic serve
 16.7 teste no device ou emulador
     ionic platform add android
-    ionic run android
+    ionic cordova run android
+
+pg 151
