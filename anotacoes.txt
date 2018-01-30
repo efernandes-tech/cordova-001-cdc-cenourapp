@@ -97,3 +97,10 @@ capitulo 14 servicos remotos
     - https://github.com/sergiolopes/cozinhapp
 14.4 plugin cordova whitelist
     cordova plugin add cordova-plugin-whitelist --save
+
+capitulo 16 introducao ao ionic
+    - https://ionicframework.com/
+16.2 novo projeto
+    ionic start --appname "Só de Cenoura em Casa" --id br.com.edersonfernandes.pedidapp pedidapp blank
+    cd pedidapp
+    ionic serve
