@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "br.com.edersonfernandes.garconapp"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "br.com.edersonfernandes.garconapp"
     }
   },
   "dependent_plugins": {}

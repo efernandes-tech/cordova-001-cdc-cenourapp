@@ -4,16 +4,68 @@
     "uninstalled": []
   },
   "config_munge": {
-    "files": {}
+    "files": {
+      "package.phone.appxmanifest": {
+        "parents": {
+          "/Package/Capabilities": [
+            {
+              "xml": "<DeviceCapability Name=\"webcam\" />",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "package.windows.appxmanifest": {
+        "parents": {
+          "/Package/Capabilities": [
+            {
+              "xml": "<DeviceCapability Name=\"webcam\" />",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "package.windows10.appxmanifest": {
+        "parents": {
+          "/Package/Capabilities": [
+            {
+              "xml": "<DeviceCapability Name=\"webcam\" />",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "Garçonete Só de Cenoura"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "Garçonete Só de Cenoura"
     }
   },
   "dependent_plugins": {},
-  "modules": [],
+  "modules": [
+    {
+      "id": "phonegap-plugin-barcodescanner.BarcodeScanner",
+      "file": "plugins/phonegap-plugin-barcodescanner/www/barcodescanner.js",
+      "pluginId": "phonegap-plugin-barcodescanner",
+      "clobbers": [
+        "cordova.plugins.barcodeScanner"
+      ]
+    },
+    {
+      "id": "phonegap-plugin-barcodescanner.BarcodeScannerProxy",
+      "file": "plugins/phonegap-plugin-barcodescanner/src/windows/BarcodeScannerProxy.js",
+      "pluginId": "phonegap-plugin-barcodescanner",
+      "merges": [
+        ""
+      ]
+    }
+  ],
   "plugin_metadata": {
-    "cordova-plugin-whitelist": "1.3.3"
+    "cordova-plugin-whitelist": "1.3.3",
+    "phonegap-plugin-barcodescanner": "7.0.2"
   }
 }

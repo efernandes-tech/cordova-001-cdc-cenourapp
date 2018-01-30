@@ -84,3 +84,8 @@ capitulo 12 configuracoes do projeto
     npm -g install ionic
 12.8 engines
     cordova platform add android --save
+
+capitulo 13 plugins no cordova
+    - Acesso a recursos nativos do aparelho.
+13.2 phonegap barcode scanner
+    cordova plugin add phonegap-plugin-barcodescanner --save
