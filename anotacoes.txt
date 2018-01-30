@@ -95,3 +95,5 @@ capitulo 13 plugins no cordova
 capitulo 14 servicos remotos
     - http://cozinhapp.sergiolopes.org/
     - https://github.com/sergiolopes/cozinhapp
+14.4 plugin cordova whitelist
+    cordova plugin add cordova-plugin-whitelist --save
