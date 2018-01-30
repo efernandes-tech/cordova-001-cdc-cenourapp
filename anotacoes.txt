@@ -108,4 +108,5 @@ capitulo 16 introducao ao ionic
     ionic platform add android
     ionic cordova run android
 
-pg 151
+capitulo 17 single paga app com ionic
+    - Um HTML base (index.html) e um framework (AngularJS) carrega telas dinamicamente.

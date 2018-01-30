@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 30 14:41:55 BRST 2018
+#Tue Jan 30 21:24:05 BRST 2018
 210.set=ANDROID_RESOURCE
 14.set=ASSET
 180.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-it\\scanning.html
@@ -17,7 +17,7 @@
 159.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 125.set=ANDROID_RESOURCE
 211.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
-80.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v21\\notification_action_tombstone.xml
+80.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_lines_media.xml
 134.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 186.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 161.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
@@ -32,7 +32,7 @@
 65.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\fonts\\roboto\\Roboto-Medium.woff2
 61.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 217.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-zh-rCN\\about1d.html
-40.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\toggle_torch.png
+40.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png
 186.set=ASSET
 115.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-zh-rHK\\license.html
 49.set=ANDROID_RESOURCE
@@ -74,14 +74,14 @@
 128.set=JAVA_RESOURCE
 70.set=ASSET
 27.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\fonts\\material-design-icons\\Material-Design-Icons.woff2
-79.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_lines_media.xml
+79.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v21\\notification_action_tombstone.xml
 31.set=ASSET
 54.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\encode.xml
 108.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 237.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 135.set=ASSET
 212.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\0.jar
-81.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\search_book_contents.xml
+81.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_action.xml
 135.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 187.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 110.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -128,7 +128,7 @@
 7.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\0.jar
 103.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\launcher_icon.png
 232.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\cordova-js-src\\platform.js
-155.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+155.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\notification_icon_background.xml
 230.set=ANDROID_RESOURCE
 130.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\cordova.js
 171.set=ASSET
@@ -144,7 +144,7 @@
 30.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-ko\\index.html
 145.set=ASSET
 213.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
-82.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_action.xml
+82.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\search_book_contents.xml
 136.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 188.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 111.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -191,7 +191,7 @@
 8.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 104.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\fonts\\roboto\\Roboto-Bold.woff2
 233.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\bookmark_picker_list_item.xml
-156.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\notification_icon_background.xml
+156.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
 131.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_narrow_custom.xml
 181.set=ANDROID_RESOURCE
 44.set=ANDROID_RESOURCE
@@ -227,8 +227,8 @@
 12.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 68.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-zh-rCN\\about2d.html
 43.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-de\\scanning.html
-118.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\launcher_icon.png
-95.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_big_media_custom.xml
+118.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\notification_bg.xml
+95.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-mdpi-v4\\screen.png
 149.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 79.set=ANDROID_RESOURCE
 201.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -255,7 +255,7 @@
 9.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 105.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-en\\whatsnew.html
 234.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\cordova-js-src\\android\\nativeapiprovider.js
-157.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
+157.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_action_tombstone.xml
 191.set=ANDROID_RESOURCE
 132.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_narrow.xml
 54.set=ANDROID_RESOURCE
@@ -288,8 +288,8 @@
 13.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 69.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png
 44.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media_custom.xml
-119.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\notification_bg.xml
-96.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-mdpi-v4\\screen.png
+119.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\launcher_icon.png
+96.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_big_media_custom.xml
 89.set=ANDROID_RESOURCE
 202.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 71.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout-v17\\notification_template_big_media.xml
@@ -315,7 +315,7 @@
 106.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-zh-rTW\\index.html
 18.set=ASSET
 235.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-uk\\about2d.html
-158.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_action_tombstone.xml
+158.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
 210.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png
 133.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-ru\\sharing.html
 64.set=ASSET
@@ -334,7 +334,7 @@
 85.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-es\\scanning.html
 139.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 32.set=ASSET
-60.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\encode.xml
+60.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-ldpi-v4\\screen.png
 114.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 91.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 166.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
@@ -390,7 +390,7 @@
 35.set=ANDROID_RESOURCE
 139.set=ASSET
 81.set=ANDROID_RESOURCE
-59.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-port-ldpi-v4\\screen.png
+59.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\encode.xml
 34.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\www\\js\\app.js
 65.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 217.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
@@ -701,7 +701,7 @@ count=240
 183.set=ASSET
 46.set=ANDROID_RESOURCE
 18.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
-39.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png
+39.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable\\toggle_torch.png
 14.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-ru\\license.html
 45.base=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 92.set=ASSET

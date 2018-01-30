@@ -4,23 +4,6 @@
             "outputFile": "C:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ederson.fernandes\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\74f665a3576543ac090a100bd2866518\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,144,215,288,348,414,536,597,663",
-                        "endColumns": "88,70,72,59,65,121,60,65,66",
-                        "endOffsets": "139,210,283,343,409,531,592,658,725"
-                    },
-                    "to": {
-                        "startLines": "50,52,58,114,264,266,267,272,274",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1468,1616,1945,5304,15514,15690,15812,16074,16269",
-                        "endColumns": "88,70,72,59,65,121,60,65,66",
-                        "endOffsets": "1552,1682,2013,5359,15575,15807,15868,16135,16331"
-                    }
-                },
-                {
                     "source": "C:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,2,3",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ederson.fernandes\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\ef929722fdaabd33c447d0c654288df4\\res\\values\\values.xml",
+                    "source": "C:\\Users\\eders\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\9c4829c5a40ebd00e6fafc7e034fd8b9\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,54,55,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ederson.fernandes\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\05404280b12e0601c230ca4b8a6f2c3d\\res\\values\\values.xml",
+                    "source": "C:\\Users\\eders\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\13f379e12fafdff338ca89253a2a5747\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,348,414,536,597,663",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,343,409,531,592,658,725"
+                    },
+                    "to": {
+                        "startLines": "50,52,58,114,264,266,267,272,274",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1468,1616,1945,5304,15514,15690,15812,16074,16269",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "1552,1682,2013,5359,15575,15807,15868,16135,16331"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\eders\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\05404280b12e0601c230ca4b8a6f2c3d\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,38,43,50,51,52,53,54,55,56,57,58,59,60,63,64,67,68,69,70,71,72,73,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,203,211,216",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

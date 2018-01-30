@@ -4,3 +4,10 @@ angular.module('starter')
         $scope.bolos = dados;
     });
 })
+
+angular.module('starter')
+.controller('DetalheController', function($scope, ProdutosService, $stateParams) {
+    ProdutosService.lista().then(function(dados){
+        $scope.bolo = dados[$stateParams.boloId];
+    });
+});

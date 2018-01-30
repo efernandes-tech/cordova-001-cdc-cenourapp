@@ -6,4 +6,9 @@ angular.module('starter')
             templateUrl: 'templates/home.html',
             controller: 'HomeController'
         })
+        .state('detalhe', {
+            url: '/bolo/:boloId',
+            templateUrl: 'templates/detalhe.html',
+            controller: 'DetalheController'
+        })
     });

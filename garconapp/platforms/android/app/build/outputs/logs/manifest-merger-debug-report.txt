@@ -4,15 +4,15 @@ ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platform
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b513e256607ddf9f7afd9ab6afc86dc6\AndroidManifest.xml:17:1-22:12
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e32ec7451a2fa8265346e3cd1dd6ef7f\AndroidManifest.xml:17:1-22:12
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:2:1-14:12
 MERGED from [:CordovaLib] C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\74f665a3576543ac090a100bd2866518\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3b0b736068effb5a131292638233f5f8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23221aee62913b2820d91548f8d7c306\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2091bdfc59e78a1b48057afe01f0110b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ef929722fdaabd33c447d0c654288df4\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\80f42e4f7b643dc257408cdf33eb87f9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\13f379e12fafdff338ca89253a2a5747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\d69db255e429f9fa2d80995b12bff5af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f3e6bada2b702b5bb9d1f6f8b21cd9d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a45e394c7780e0adbb818ff8339da547\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c4829c5a40ebd00e6fafc7e034fd8b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8c4f3d5aef119f690285ed2297bce51e\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
 INJECTED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:2:1-19:12
@@ -52,8 +52,8 @@ ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platform
 		ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
 application
 ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:11:5-12:19
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:11:5-12:19
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:11:5-12:19
 	android:supportsRtl
 		ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
 	android:label
@@ -112,24 +112,24 @@ ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platform
 		ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:13:41-109
 uses-sdk
 ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b513e256607ddf9f7afd9ab6afc86dc6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b513e256607ddf9f7afd9ab6afc86dc6\AndroidManifest.xml:20:5-44
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:7:5-9:41
-MERGED from [:barcodescanner-release-2.1.5:] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e32ec7451a2fa8265346e3cd1dd6ef7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\e32ec7451a2fa8265346e3cd1dd6ef7f\AndroidManifest.xml:20:5-44
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcodescanner-release-2.1.5:] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\05404280b12e0601c230ca4b8a6f2c3d\AndroidManifest.xml:7:5-9:41
 MERGED from [:CordovaLib] C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\74f665a3576543ac090a100bd2866518\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\74f665a3576543ac090a100bd2866518\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3b0b736068effb5a131292638233f5f8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3b0b736068effb5a131292638233f5f8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23221aee62913b2820d91548f8d7c306\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\23221aee62913b2820d91548f8d7c306\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2091bdfc59e78a1b48057afe01f0110b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2091bdfc59e78a1b48057afe01f0110b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ef929722fdaabd33c447d0c654288df4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ef929722fdaabd33c447d0c654288df4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\80f42e4f7b643dc257408cdf33eb87f9\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ederson.fernandes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\80f42e4f7b643dc257408cdf33eb87f9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\13f379e12fafdff338ca89253a2a5747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\13f379e12fafdff338ca89253a2a5747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\d69db255e429f9fa2d80995b12bff5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\d69db255e429f9fa2d80995b12bff5af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f3e6bada2b702b5bb9d1f6f8b21cd9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\f3e6bada2b702b5bb9d1f6f8b21cd9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a45e394c7780e0adbb818ff8339da547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a45e394c7780e0adbb818ff8339da547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c4829c5a40ebd00e6fafc7e034fd8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c4829c5a40ebd00e6fafc7e034fd8b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8c4f3d5aef119f690285ed2297bce51e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\eders\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\8c4f3d5aef119f690285ed2297bce51e\AndroidManifest.xml:20:5-22:41
 	android:targetSdkVersion
 		ADDED from C:\Full-stack_Developer\phonegap-001-cdc-cenourapp\garconapp\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
 	android:minSdkVersion
