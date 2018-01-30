@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jan 30 13:43:55 BRST 2018
+#Tue Jan 30 14:41:55 BRST 2018
 210.set=ANDROID_RESOURCE
 14.set=ASSET
 180.file=C\:\\Full-stack_Developer\\phonegap-001-cdc-cenourapp\\garconapp\\platforms\\android\\app\\build\\intermediates\\assets\\debug\\html-it\\scanning.html
