@@ -89,3 +89,5 @@ capitulo 13 plugins no cordova
     - Acesso a recursos nativos do aparelho.
 13.2 phonegap barcode scanner
     cordova plugin add phonegap-plugin-barcodescanner --save
+13.6 configurando a status bar
+    cordova plugin add cordova-plugin-statusbar --save

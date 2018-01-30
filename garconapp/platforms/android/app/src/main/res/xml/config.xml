@@ -41,4 +41,5 @@
     <preference name="BackgroundColor" value="0xF2F2F2FF" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Fullscreen" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#E86C13" />
 </widget>
