@@ -91,3 +91,7 @@ capitulo 13 plugins no cordova
     cordova plugin add phonegap-plugin-barcodescanner --save
 13.6 configurando a status bar
     cordova plugin add cordova-plugin-statusbar --save
+
+capitulo 14 servicos remotos
+    - http://cozinhapp.sergiolopes.org/
+    - https://github.com/sergiolopes/cozinhapp
