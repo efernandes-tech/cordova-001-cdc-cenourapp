@@ -82,3 +82,5 @@ capitulo 12 configuracoes do projeto
     - Gerenciar no braço não rende, é preciso automatizar.
 12.7 automatizando geracao dos icones e splash screens
     npm -g install ionic
+12.8 engines
+    cordova platform add android --save
