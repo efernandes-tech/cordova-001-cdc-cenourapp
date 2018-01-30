@@ -104,3 +104,6 @@ capitulo 16 introducao ao ionic
     ionic start --appname "Só de Cenoura em Casa" --id br.com.edersonfernandes.pedidapp pedidapp blank
     cd pedidapp
     ionic serve
+16.7 teste no device ou emulador
+    ionic platform add android
+    ionic run android
