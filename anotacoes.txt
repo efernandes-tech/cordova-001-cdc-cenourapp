@@ -115,3 +115,38 @@ capitulo 18 cache e offline
     - Persistir dados dinâmicos localmente no aparelho.
 18.2 sqlite com plugin
     cordova plugin add cordova-sqlite-storage --save
+18.4 outras implementacoes de offline
+    - offline-first com dados novos
+    - network-first
+18.5 indo alem no offline
+    - Sincronização consistente dos dados é complicado, rende um livro sobre o assunto.
+
+capitulo 19 testes, debug e compatibilidade
+    - Para versões antigas o melhor é usar o Crosswalk, e imbutir uma WebView na sua app.
+19.2 usando crosswalk no android
+    cordova plugin add cordova-plugin-crosswalk-webview --save
+    cordova build android
+    cordova run android
+19.4 debug no android
+    - Habilite e plug o dispositivo com USB no PC.
+    - No chrome acesse "chrome:inspect".
+    - Clique em "Inspect" e divirta-se com com o DevTools.
+
+capitulo 20 publicacao nas lojas
+    - A do Google é 25 dólares uma vez, e a da Apple é 99 dólares todo ano.
+20.1 - publicacao da play store
+    - Ter uma conta de Developer.
+    - Preparar a app.
+        cordova build android --release
+            - Em caso de erro crie o arquivo "platforms/android/builde-extras.gradle" com:
+                android { lintOptions { disable 'MissingTranslation', 'ExtraTranslation' } }
+    - Assinando a app.
+        - Gerar as chaves (Guarde essas chaves com sua vida).
+            keytool -genkey -v -keystore chave-android.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+        - Assinar a app.
+            jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore chave-android.keystore android-release-unsigned.apk alias_name
+        - Alguns ajustes.
+            zipalign -v 4 android-release-unsigned.apk SoDeCenouraFinal.apk
+    - Acesse a play store e publique sua apk assinada.
+20.2 publicacao na apple store
+    - Complexo.
