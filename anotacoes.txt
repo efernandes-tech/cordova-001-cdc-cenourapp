@@ -110,3 +110,8 @@ capitulo 16 introducao ao ionic
 
 capitulo 17 single paga app com ionic
     - Um HTML base (index.html) e um framework (AngularJS) carrega telas dinamicamente.
+
+capitulo 18 cache e offline
+    - Persistir dados dinâmicos localmente no aparelho.
+18.2 sqlite com plugin
+    cordova plugin add cordova-sqlite-storage --save
