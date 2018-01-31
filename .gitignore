@@ -1,3 +1,12 @@
+/bergamotapp/node_modules/*
+/bergamotapp/platforms/*
+/bergamotapp/plugins/*
+
+/cenourapp/node_modules/*
+/cenourapp/platforms/*
+/cenourapp/plugins/*
+
+/garconapp/node_modules/*
 /garconapp/platforms/*
 /garconapp/plugins/*
 

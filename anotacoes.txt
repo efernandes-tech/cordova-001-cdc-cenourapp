@@ -147,6 +147,7 @@ capitulo 20 publicacao nas lojas
             jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore chave-android.keystore android-release-unsigned.apk alias_name
         - Alguns ajustes.
             zipalign -v 4 android-release-unsigned.apk SoDeCenouraFinal.apk
+            - Dentro de Android SDK em "build-tools/VERSAO/zipalign".
     - Acesse a play store e publique sua apk assinada.
 20.2 publicacao na apple store
     - Complexo.
