@@ -11,4 +11,9 @@ angular.module('starter')
             templateUrl: 'templates/detalhe.html',
             controller: 'DetalheController'
         })
+        .state('pedido', {
+            url: '/pedido/:boloId',
+            templateUrl: 'templates/pedido.html',
+            controller: 'PedidoController'
+        })
     });
