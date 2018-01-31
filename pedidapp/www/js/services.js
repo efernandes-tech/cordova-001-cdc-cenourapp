@@ -1,6 +1,6 @@
 angular.module('starter')
 .service('ProdutosService', function($http, $q) {
-    var url = 'http://cozinhapp.sergiolopes.org/produtos';
+    var url = 'http://cozinhapp.sergiolopes.org/produtos?random=1';
 
     // Sempre dispara o serviço pra checar dados mais recentes.
     var promise = $http.get(url).then(function(response){
