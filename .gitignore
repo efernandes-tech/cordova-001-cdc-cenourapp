@@ -1,3 +1,6 @@
 /garconapp/platforms/*
 /garconapp/plugins/*
+
 /pedidapp/node_modules/*
+/pedidapp/platforms/*
+/pedidapp/plugins/*
