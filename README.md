@@ -1,1 +1,1 @@
-# phonegap-001-cdc-cenourapp
+# cordova-001-cdc-cenourapp
